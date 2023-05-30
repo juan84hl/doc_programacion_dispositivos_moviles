@@ -1,5 +1,6 @@
 # doc_programacion_dispositivos_moviles
  
+
 Flutter (software) 
 
  
@@ -23,3 +24,16 @@ Fecha de creación: Alpha (v0.0.6) 11 de mayo de 2017
 Comparación con las otras tecnologías:  
 
 En la comparación entre Flutter y React Native, Flutter tarda más tiempo en desarrollarse. Los componentes listos para usar de React Native hacen que el proceso de desarrollo sea simple y rápido, por lo tanto, aumenta el alcance del desarrollo de aplicaciones móviles sin molestar a los desarrolladores. 
+=======
+Esta es la primera practica de la asignatura programacion de dispositivos moviles.
+
+Aqui veras los siguientes puntos:
+
+Frameworks para desarrollo de dispositivos moviles mas populares:
+
+Flutter
+Xamarin
+React native
+Ionic
+Swiftic
+

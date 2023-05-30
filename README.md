@@ -3,6 +3,7 @@
 React Native 
  
 
+
 Descripción: React Native, es un framework de código abierto creado por Meta Platforms, Inc.1 Se utiliza para desarrollar aplicaciones para Android,2  Android TV,3  iOS, macOS,4  tvOS, Web,5  Windows4 y UWP6 al permitir que los desarrolladores usen React con las características nativas de estas plataformas.7 También se utiliza para desarrollar aplicaciones de realidad virtual con Oculus. 
 
 Lenguajes de programación base: JavaScript, Java, C++, Objective-C, Python 
@@ -21,4 +22,16 @@ Comparación con las otras tecnologías: Ambos marcos tienen ventajas y desventa
 
 
 
+ 
+Esta es la primera practica de la asignatura programacion de dispositivos moviles.
+
+Aqui veras los siguientes puntos:
+
+Frameworks para desarrollo de dispositivos moviles mas populares:
+main
+Flutter
+Xamarin
+React native
+Ionic
+Swiftic
  

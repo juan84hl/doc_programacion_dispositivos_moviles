@@ -1,6 +1,11 @@
 # doc_programacion_dispositivos_moviles
 
+
 Patrones estructurales
+
+-----patrones_de_diseño
+El catálogo de patrones de diseño
+
 
 Estos patrones explican cómo ensamblar objetos y clases en estructuras más grandes, mientras se mantiene la flexibilidad y eficiencia de la estructura.
 
@@ -30,4 +35,27 @@ También llamado: Peso mosca, Peso ligero, Cache, es un patrón de diseño estru
 
 Proxy
 
+
 Proxy es un patrón de diseño estructural que te permite proporcionar un sustituto o marcador de posición para otro objeto. Un proxy controla el acceso al objeto original, permitiéndote hacer algo antes o después de que la solicitud llegue al objeto original.
+
+Estos patrones tratan con algoritmos y la asignación de responsabilidades entre objetos.
+
+-----main
+
+Esta es la primera practica de la asignatura programacion de dispositivos moviles.
+
+Aqui veras los siguientes puntos:
+
+Frameworks para desarrollo de dispositivos moviles mas populares:
+
+Flutter
+
+Xamarin
+
+React native
+
+Ionic
+
+Swiftic
+
+

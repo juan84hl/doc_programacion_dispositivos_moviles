@@ -1,17 +1,19 @@
 # doc_programacion_dispositivos_moviles
 
-patrones_de_diseño
+Redux:
+Redux es una biblioteca de manejo de estado para JavaScript, ampliamente utilizada con React. Se basa en el patrón de diseño Flux y se enfoca en mantener un único estado global para toda la aplicación.
+Redux proporciona un flujo de datos unidireccional, lo que significa que los cambios en el estado son predecibles y se actualizan de manera coherente en toda la aplicación.
 
-El catálogo de patrones de diseño
+Principios clave de Redux:
 
-Patrones creacionales
+Store: El estado de la aplicación se almacena en un objeto central llamado store. El store es inmutable y solo se puede modificar a través de acciones.
 
-Estos patrones proporcionan mecanismos de creación de objetos que incrementan la flexibilidad y la reutilización del código existente.
+Acciones: Son objetos planos que describen un cambio en el estado de la aplicación. Las acciones se envían al store para realizar modificaciones en el estado.
 
-Patrones estructurales
+Reducers: Son funciones puras que especifican cómo se actualiza el estado en respuesta a una acción. Los reducers toman el estado actual y una acción, y devuelven un nuevo estado actualizado.
 
-Estos patrones explican cómo ensamblar objetos y clases en estructuras más grandes, mientras se mantiene la flexibilidad y eficiencia de la estructura.
+Dispatch: Es el método utilizado para enviar una acción al store y desencadenar la actualización del estado.
 
-Patrones de comportamiento
+Suscripción: Los componentes pueden suscribirse al store para recibir actualizaciones automáticas cada vez que el estado cambie.
 
-Estos patrones tratan con algoritmos y la asignación de responsabilidades entre objetos.
+El uso de Redux puede ser beneficioso en aplicaciones complejas con un flujo de datos complejo y donde se requiere un manejo avanzado del estado. Sin embargo, puede resultar más verboso en comparación con otras soluciones más livianas como el Context de React.

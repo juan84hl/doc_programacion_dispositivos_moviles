@@ -1,6 +1,7 @@
 # doc_programacion_dispositivos_moviles
 
 Redux:
+
 Redux es una biblioteca de manejo de estado para JavaScript, ampliamente utilizada con React. Se basa en el patrón de diseño Flux y se enfoca en mantener un único estado global para toda la aplicación.
 Redux proporciona un flujo de datos unidireccional, lo que significa que los cambios en el estado son predecibles y se actualizan de manera coherente en toda la aplicación.
 

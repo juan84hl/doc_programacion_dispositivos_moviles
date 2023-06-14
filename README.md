@@ -1,17 +1,13 @@
 # doc_programacion_dispositivos_moviles
 
-patrones_de_diseño
+Context:
 
-El catálogo de patrones de diseño
+El Context de React es una característica incorporada en React que permite compartir datos entre componentes sin necesidad de pasar props manualmente a través de múltiples niveles de componentes. Context proporciona una forma de crear un estado global que se puede acceder desde cualquier componente en el árbol de componentes.
 
-Patrones creacionales
+El Context consta de dos partes principales:
 
-Estos patrones proporcionan mecanismos de creación de objetos que incrementan la flexibilidad y la reutilización del código existente.
+Provider: El componente Provider es responsable de proporcionar los datos o estado global a los componentes descendientes.
 
-Patrones estructurales
+Consumer: El componente Consumer es utilizado por los componentes que necesitan acceder a los datos o estado proporcionados por el Provider.
 
-Estos patrones explican cómo ensamblar objetos y clases en estructuras más grandes, mientras se mantiene la flexibilidad y eficiencia de la estructura.
-
-Patrones de comportamiento
-
-Estos patrones tratan con algoritmos y la asignación de responsabilidades entre objetos.
+El uso de Context es adecuado cuando se necesita compartir datos a través de múltiples niveles de componentes, evitando la propagación de props a través de componentes intermedios. Sin embargo, a medida que la aplicación crece en tamaño y complejidad, el uso exclusivo de Context puede volverse complicado de mantener y puede llevar a problemas de rendimiento.

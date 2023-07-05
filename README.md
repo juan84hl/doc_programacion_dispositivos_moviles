@@ -1,6 +1,6 @@
 # doc_programacion_dispositivos_moviles
 
-TypeScript es un lenguaje de programación que se basa en JavaScript y agrega características adicionales de tipado estático. A continuación, se presenta un resumen básico de TypeScript con ejemplos de código:
+TypeScript es un lenguaje de programación que se basa en JavaScript y agrega características adicionales de tipado estático:
 
 1. Tipado estático: TypeScript permite declarar y especificar tipos de datos para variables, parámetros de funciones, propiedades de objetos, etc. Esto ayuda a detectar errores de tipo durante la compilación en lugar de tiempo de ejecución.
 
